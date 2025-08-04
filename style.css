@@ -118,6 +118,12 @@ label{
     cursor: pointer;
 }
 
+.barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+
 .forca{
     height: 30px;
     position: relative;
@@ -126,11 +132,11 @@ label{
 
 .fraca{
     width: 25%;
-    background-color:  #e71b32;
+    background-color: #E71B32;
 }
 
 .media{
-    background-color: #faf408;
+    background-color: #FAF408;
     width: 50%;
 }
 
